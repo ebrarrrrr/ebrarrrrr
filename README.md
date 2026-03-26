@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ebrar </h1>
-<h3 align="center">I am a 2nd year management information systems student.</h3>
-
-- 🌱 I’m currently learning **web3-SQL**
+<h3 align="center">I am a 3rd year management information systems student.</h3>
 
 - 📫 How to reach me **ebrartopal599@gmail.com**
 
